@@ -1,5 +1,9 @@
 # MapUp - Analytics Dashboard Assessment
 
+**GitHub Repository:** [https://github.com/satyendramourya/analytics-dashboard-assessment](https://github.com/satyendramourya/analytics-dashboard-assessment)  
+**Live Dashboard:** [https://analytics-dashboard-assessment-self.vercel.app/](https://analytics-dashboard-assessment-self.vercel.app/)
+
+
 ## 🚗 Electric Vehicle Analytics Dashboard
 
 ### Project Overview
